@@ -1,2 +1,5 @@
 # Todo-list
-Lista de tarefas.
+Uma simples lista de tarefas feita em:
+- Html
+- Css
+- JavaScript
